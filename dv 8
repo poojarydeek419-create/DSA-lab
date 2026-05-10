@@ -1,0 +1,91 @@
+Build visualizations in power BI using charts, tabis and slicns with proper formatting.
+
+objective:
+
+To design clean, nteractive, and well-formatted visuals using charts tables and sticky.
+
+procedure:
+
+Step 1: create a Table visual
+
+1. Go to Report views
+
+2. Click the Table icon from the visualizations pane.
+
+3. Drag the following fields:
+
+product name
+
+Year
+
+Total Sales
+
+Total profil
+
+step 2: Create a Bar Column chart
+
+1. Click the Clustered Column chart icon.
+
+2.Dorag
+
+Axis product category/region
+
+Values Total Saky
+
+3. Pesize the chart appropriately.       step 3: create a line chart
+
+1. Click the line chart icon
+
+2. Drag:
+
+X-Aziy Year or order Data
+
+Y- Axis Total sales
+
+3. Enable Date Rables if required.
+
+Step 4: Add Slicers.
+
+1. Click the Stices visual
+
+2. Drag year or Region into the slices.
+
+3. Change Stices type drom Formal Pane
+
+Step 5: Apply formatting
+
+1. seled any visual
+
+2 open Formal pare
+
+3.
+
+4. Apply:
+
+Title and alignmen
+
+Font Size and Color
+
+Date Labely
+
+Background and border.
+
+5. Ensure consistency across all visuls.   Step 6: Enable Visual Interaction
+
+1. Seled a charl
+
+2. Gick Formad Ectet Interactions.
+
+3. Confiam visuals cross-filter correctly.
+
+Expated autput
+
+Interactive charts and tabiy
+
+working Slicas controlling all visuels
+
+Properly formatted, readable dashboard.
+
+Result:
+
+Clean & interactive power BI visuals are successfuly Created using charts, tabts & Slicers.
