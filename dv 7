@@ -1,0 +1,67 @@
+7:
+
+use Dax to create cakulated Cokimas measures, and perform basic aggregations in powen BT
+
+objective:
+
+To perform calculations in power BI using Data Analysts Expressions (DAX) by creating measures and Calculated columns.
+
+procedure:
+
+Step 1: Open Power BI Report
+
+1. open power BI Desktop
+
+2. Lood the dataset containing sales lost, Date Columns.
+
+3. Ensure the tables are properly related in model viwes.
+
+Step 2: create total sales measure
+
+1. Go to report views.
+
+2. In the fields pane, select the sales table
+
+3. Click modeling need measure
+
+4. Enter the following DAX formula:
+
+Total Sales=sum (sales [sales Around])
+
+5. Press Enter.     step 3: create total profit measure
+
+1. Click modeling Neue measure
+
+2. Enter the DAX Formula:
+
+Total profit sum (Saly [Saly Amant]) sum (Sales (Cast))
+
+3. press Eater
+
+Step 4: Create Calculated year column
+
+1. Go to Date view
+
+2. Select the sales table
+
+3. Click modeling New Column
+
+4 Enter the DAX formula:
+
+Year= YEAR (saly Corder Data])
+
+5 pros Enter
+
+Step 5: validate DAX Calculations
+
+1. Insert a Table visual.
+
+2. Add year, Total sals and Total profit.
+
+3. Verity that valus change correctly when littery we applied
+
+Resut.
+
+
+
+DAX measures and calculated Columns are created and validated successfully.
