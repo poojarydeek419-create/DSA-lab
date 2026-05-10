@@ -1,0 +1,59 @@
+Visualize sales date in Exeel using bar, line f pie charks and interpret patterns.
+
+Objective:
+
+To analyze data using visual representetions
+
+procedure:
+
+Steps in Excel for bar chard-Sales by product
+
+1. Ariange dato like this:
+
+Product Isales
+
+2. Select the product and sales Columns
+
+3. Go to Insert charts Bar chart clus level Bar
+
+4. Add:
+
+Chart Title: Sales by Product
+
+Date Labely:
+
+Interpretation
+
+products with higher bars indicate strong es saly performance
+
+A large gap blw bars suggests uneven product demond
+
+Products with low sales may need marketing Gocus on redesign.  Steps in Excel for line Chart - Regional Sales
+
+1. Arrange date like this.
+
+Region Isales
+
+2. Select the region and sales Columns
+
+3. Go to insert charts Line chard line with marters
+
+4. Add: bitle. Chait Title: Monthly Sales trend Axis Titles.
+
+Steps in Excel for pie chart - Regional sales contribution
+
+1. Arrange dale like this:
+
+Region /sales
+
+seled the region and sales columns.
+
+3. Go to Insert Charts pie chort & Dpie
+
+4. Add:
+
+Regchart title: Regional Sales contribution
+
+Percentage Dale Labels
+
+Result: Sales date is visualized using bar, line and Pie Choits, highlighting frendy regional contributions and top-performing products.
