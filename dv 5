@@ -1,0 +1,85 @@
+:
+
+clean & transporm dataset in power BT using Power Query by handling duplicates, nulls, & Columns
+
+Objective: To Prepare clean data for analysis
+
+Procedure:
+
+Step 1: Load Date Into Power BI
+
+1. open power BI Desktop
+
+2. Click Harme Get Date
+
+3. select the date source
+
+4.Click Transforro Dale to open powes query edider
+
+Step 2: Remove duplicate Records
+
+1. Seled the Column(s) that should be unique
+
+2 Go lo home Remove Rows Rerove Duplicates
+
+3. Power Query Keups the first occurance and remove others
+
+Step 3: Replace or Renove nui values
+
+option A: Replace wulls
+
+1 select the column
+
+2. Go to Transform Replace values.   Replace null with:
+
+o far numeric Columns
+
+"Unknown" or "nal Available" for text column
+
+option B: Remove Null rows
+
+1. select the column
+
+2. Go to Home Remove row's remove blank rows
+
+Step 4: Rename & formal columry
+
+1. Double-Click the Column header to rename & Ensure consistant naming.
+
+No special characters
+
+else readble names
+
+3. Adjust text formatting:
+
+Ttrim spaces: transform Formal-Trim
+
+steps: change Date Types
+
+1. Select each column
+
+2. Choose the correct date type from the bus in the
+
+Column heads
+
+Date -Date
+
+Sales-Decimal numbay
+
+Quantity-whole numbes
+
+Categoly-text.     3.Confirm changes when prompted.
+
+Expected output:
+
+Duplicate records removed
+
+Null values handled appropriately.
+
+Columns renamed & formatted consistently
+
+Correct dade types applied
+
+Resul
+
+deaned & transformed dataset ready for analysis and visualisation
