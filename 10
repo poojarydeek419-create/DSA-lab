@@ -1,0 +1,107 @@
+Explore a destaset, identify trendy and outliers create basic visuals and present insights.
+
+objective:
+
+To explore a real-world dataset, identify Herds & commurilate insights effectively using Power BI
+
+Procedure
+
+Step1: Load the dataset
+
+1. open power BI desktop
+
+2.Click Home Get Date
+
+3 Selere the dabbseo
+
+4.like Load
+
+Step 2: clear & mode the data
+
+Date deering
+
+Click Transform Date
+
+2. Putoim de following
+
+Remove duplicaty
+
+Handle missing valus
+
+Rename (demos
+
+Change date typy
+
+3. Click Close & Apply.       Data Modeling
+
+1 open model viens
+
+2 create proper relationships.
+
+3 verify coldinality & dilter direction
+
+Step 3: Explore Data and Identify palleons
+
+1. use dato view to inspect distributions
+
+2. create quick Usuals.
+
+Sales by year Nend analysis
+
+saly by catepry performance comparision
+
+3. Identity:
+
+Increasing & decreasing frendy
+
+Seasonal Patterny
+
+-High a low-performing Categories.
+
+Step wildentify outlicy
+
+1 create:
+
+Column charly
+
+Une chary
+
+Tables with Solting
+
+2. 100k bas
+
+Extremely high or low Valuny
+
+sudden speless or drops
+
+3. Use Top i filter or conditional formating tohighlight outline.
+
+Step 5: crede Dashboard
+
+1. Combine
+
+kpl candy
+
+Charts
+
+tables
+
+sticers
+
+2. Ensure all visuals interad Properly
+
+3. Apply Convisterd formaliing
+
+step6: watta ky insights.
+
+Add insights using Teat Boxes os prepare a seporate sreport
+
+Expected outpect
+
+Intractive dashboard dowry fiend & actress Clean & stuctured Avals
+
+clear insight Bummary based on date analysis
+
+Result:
+
+A complete dalo analysis workflow is sucessfuly foraed, & anticable insights are presented using Pouly BI
