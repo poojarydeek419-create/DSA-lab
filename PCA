@@ -1,0 +1,39 @@
+import pandas as pd
+
+from skleam.preprocessing import StandardScaler
+
+import numpy as np
+
+from sklearn.decomposition import PCA
+
+from sklearn.metrics.pairwise import cosine_similarity
+
+loan = pd.read_csv("loan_dataset.csv")
+
+features = ['ApplicantIncome', 'CoapplicantIncome', LoanAmount', 'Loan_Amount_Term',
+
+'Credit_History']
+
+loan_features = loan [features].fillna(loan[features].mean())
+
+scaler StandardScaler()
+
+scaled_data = scaler.fit_transform(loan_features)
+
+pcaPCA(n_components=2)
+
+pca_components = pca.fit_transform(scaled_data)
+
+similarity cosine_similarity(pca_df)
+
+pca_df = pd.DataFrame(pca_components, columns=['PC1', 'PC2'])
+
+def recommend_similar_applicants(applicant_index, top_n=3):
+
+scores = list(enumerate(similarity[applicant_index]))
+
+scores sorted(scores, key=lambda x: x[1], reverse=True)
+
+retum scores [1:top_n+1]
+
+recommend_similar_applicants(0)
